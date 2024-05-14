@@ -44,8 +44,6 @@
         slug: human_services:care:support_group:bereavement
       - name: Parenting Education
         slug: human_services:care:support_group:parenting_education
-      - name: Virtual Support
-        slug: human_services:care:support_group:virtual_support
     - name: Relief for Caregivers
       slug: human_services:care:relief_for_caregivers
     - name: Vacations

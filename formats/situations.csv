@@ -74,7 +74,7 @@ human_situations:disability:visual_impairment,Human Situations,מצבים,Disabi
 human_situations:disability:mentally_debilitated,Human Situations,מצבים,Disability,מוגבלויות,Mentally Debilitated,תשושי נפש
 human_situations:disability:in_need_for_nursing_care,Human Situations,מצבים,Disability,מוגבלויות,In Need for Nursing Care,אנשים במצב סיעודי
 human_situations:education,Human Situations,מצבים,Education,חינוך
-human_situations:education:dropouts,Human Situations,מצבים,Education,חינוך,Dropouts,נשירה ממערכת החינוך
+human_situations:education:dropouts,Human Situations,מצבים,Education,חינוך,Dropouts,נושרים ממערכת החינוך
 human_situations:education:gifted_students,Human Situations,מצבים,Education,חינוך,Gifted Students,ילדים מחוננים
 human_situations:education:special_needs,Human Situations,מצבים,Education,חינוך,Special needs,בעלי צרכים מיוחדים
 human_situations:education:students,Human Situations,מצבים,Education,חינוך,Students,סטודנטים
@@ -199,7 +199,7 @@ human_situations:substance_dependency:alcohol_dependency,Human Situations,מצב
 human_situations:substance_dependency:gambling,Human Situations,מצבים,Substance Dependency,התמכרויות,Gambling,מכורים להימורים
 human_situations:substance_dependency:opioid_dependency,Human Situations,מצבים,Substance Dependency,התמכרויות,Opioid Dependency,מכורים לסמים
 human_situations:substance_dependency:smoker,Human Situations,מצבים,Substance Dependency,התמכרויות,Smoker,מעשנים
-human_situations:substance_dependency:painkillers,Human Situations,מצבים,Substance Dependency,התמכרויות,Painkillers,משככי כאבים
+human_situations:substance_dependency:painkillers,Human Situations,מצבים,Substance Dependency,התמכרויות,Painkillers,מכורים למשככי כאבים
 human_situations:survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים
 human_situations:survivors:abuse_or_neglect_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Abuse or Neglect Survivors,נפגעי התעללות או הזנחה
 human_situations:survivors:burn_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Burn Survivors,נפגעי כוויה

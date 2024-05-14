@@ -20,7 +20,6 @@ human_services:care:spiritual_support,Human Services,מענים חברתיים,C
 human_services:care:support_group,Human Services,מענים חברתיים,Care,רווחה,Support Group,קבוצת תמיכה
 human_services:care:support_group:bereavement,Human Services,מענים חברתיים,Care,רווחה,Support Group,קבוצת תמיכה,Bereavement,תמיכה באבל
 human_services:care:support_group:parenting_education,Human Services,מענים חברתיים,Care,רווחה,Support Group,קבוצת תמיכה,Parenting Education,הדרכת הורים
-human_services:care:support_group:virtual_support,Human Services,מענים חברתיים,Care,רווחה,Support Group,קבוצת תמיכה,Virtual Support,תמיכה וירטואלית
 human_services:care:relief_for_caregivers,Human Services,מענים חברתיים,Care,רווחה,Relief for Caregivers,סיוע לבני משפחה מטפלים
 human_services:care:vacations,Human Services,מענים חברתיים,Care,רווחה,Vacations,נופשונים
 human_services:community_services,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים
@@ -173,7 +172,7 @@ human_services:housing:short_term_housing:shelters_from_violence,Human Services,
 human_services:legal,Human Services,מענים חברתיים,Legal,משפטי
 human_services:legal:advocacy_legal_aid,Human Services,מענים חברתיים,Legal,משפטי,Advocacy & Legal Aid,סיוע משפטי
 human_services:legal:advocacy_legal_aid:citizenship_immigration,Human Services,מענים חברתיים,Legal,משפטי,Advocacy & Legal Aid,סיוע משפטי,Citizenship & Immigration,תושבות ומעמד
-human_services:legal:advocacy_legal_aid:discrimination_civil_rights,Human Services,מענים חברתיים,Legal,משפטי,Advocacy & Legal Aid,סיוע משפטי,Discrimination & Civil Rights,אפליה וזכויות אזרח
+human_services:legal:advocacy_legal_aid:discrimination_civil_rights,Human Services,מענים חברתיים,Legal,משפטי,Advocacy & Legal Aid,סיוע משפטי,Discrimination & Civil Rights,אפליה וזכויות אדם
 human_services:legal:advocacy_legal_aid:guardianship,Human Services,מענים חברתיים,Legal,משפטי,Advocacy & Legal Aid,סיוע משפטי,Guardianship,אפוטרופסות
 human_services:legal:advocacy_legal_aid:understand_government_programs,Human Services,מענים חברתיים,Legal,משפטי,Advocacy & Legal Aid,סיוע משפטי,Understand Government Programs,מיצוי זכויות
 human_services:legal:advocacy_legal_aid:workplace_rights,Human Services,מענים חברתיים,Legal,משפטי,Advocacy & Legal Aid,סיוע משפטי,Workplace Rights,זכויות עובדים
@@ -181,7 +180,7 @@ human_services:legal:advocacy_legal_aid:financial_difficulties,Human Services,מ
 human_services:legal:mediation,Human Services,מענים חברתיים,Legal,משפטי,Mediation,גישור
 human_services:legal:notary,Human Services,מענים חברתיים,Legal,משפטי,Notary,נוטריון
 human_services:legal:representation,Human Services,מענים חברתיים,Legal,משפטי,Representation,ייצוג משפטי
-human_services:legal:legal_translation_interpretation,Human Services,מענים חברתיים,Legal,משפטי,Legal Translation & Interpretation,תרגום משפטי
+human_services:legal:legal_translation_interpretation,Human Services,מענים חברתיים,Legal,משפטי,Legal Translation & Interpretation,תרגום בהליכים משפטיים
 human_services:transport,Human Services,מענים חברתיים,Transport,תחבורה
 human_services:transport:shuttle_serivce,Human Services,מענים חברתיים,Transport,תחבורה,Shuttle serivce,הסעות
 human_services:money,Human Services,מענים חברתיים,Money,סיוע כלכלי
