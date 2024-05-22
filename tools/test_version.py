@@ -125,28 +125,28 @@ if __name__ == '__main__':
     assert new_version == current_version, f'Version should be {new_version} but is {current_version}'
     if new_version == latest_version:
         print('No changes detected. Exiting.')
-        exit(0)
+    else:
+        new_version_dir = VERSIONS_DIR / new_version
+        new_version_dir.mkdir(exist_ok=True)
 
-    new_version_dir = VERSIONS_DIR / new_version
-    new_version_dir.mkdir(exist_ok=True)
+        report = []
+        for pk in sorted(added):
+            report.append(('added', pk, current_taxonomy[pk][0], current_taxonomy[pk][1], current_taxonomy[pk][2]))
+        for pk in sorted(removed):
+            report.append(('removed', pk))
+        for pk in sorted(changed):
+            report.append(('changed', pk, current_taxonomy[pk][0], current_taxonomy[pk][1], current_taxonomy[pk][2]))
+        
+        out = io.StringIO()
+        writer = csv.writer(out)
+        writer.writerows(report)
+        print(out.getvalue())
 
-    report = []
-    for pk in sorted(added):
-        report.append(('added', pk, current_taxonomy[pk][0], current_taxonomy[pk][1], current_taxonomy[pk][2]))
-    for pk in sorted(removed):
-        report.append(('removed', pk))
-    for pk in sorted(changed):
-        report.append(('changed', pk, current_taxonomy[pk][0], current_taxonomy[pk][1], current_taxonomy[pk][2]))
-    
-    out = io.StringIO()
-    writer = csv.writer(out)
-    writer.writerows(report)
-    print(out.getvalue())
+        (new_version_dir / CHANGELOG_FILENAME).write_text(out.getvalue())
+        with (new_version_dir / TAXONOMY_FILENAME).open('w') as f:
+            yaml.dump(current_taxonomy_orig, f, sort_keys=False, width=240, allow_unicode=True)
+        (VERSIONS_DIR/ RENAMES_FILENAME).write_text('\n'.join(keep) + '\n')
 
-    (new_version_dir / CHANGELOG_FILENAME).write_text(out.getvalue())
-    with (new_version_dir / TAXONOMY_FILENAME).open('w') as f:        
-        yaml.dump(current_taxonomy_orig, f, sort_keys=False, width=240, allow_unicode=True)
     with (ROOT / TAXONOMY_FILENAME).open('w') as f:
         yaml.dump(current_taxonomy_orig, f, sort_keys=False, width=240, allow_unicode=True)
-    (VERSIONS_DIR/ RENAMES_FILENAME).write_text('\n'.join(keep) + '\n')
     write_pks(slug_to_pk, renames)
