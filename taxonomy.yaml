@@ -61,9 +61,6 @@
       slug: human_services:community_services:recreation
     - name: Religious Services
       slug: human_services:community_services:religious_services
-      items:
-      - name: Altenative Religious Services
-        slug: human_services:community_services:religious_services:altenative_religious_services
     - name: Social Club
       slug: human_services:community_services:social_club
     - name: Summer Camps
@@ -561,8 +558,6 @@
     - name: Social Security
       slug: human_situations:benefit_holders:social_security
       items:
-      - name: Bereaved Families of Terror
-        slug: human_situations:benefit_holders:social_security:bereaved_families_of_terror
       - name: Disability
         slug: human_situations:benefit_holders:social_security:disability
       - name: Income Security
@@ -575,8 +570,6 @@
         slug: human_situations:benefit_holders:social_security:ussr_veterans
       - name: Zion Prisoners
         slug: human_situations:benefit_holders:social_security:zion_prisoners
-      - name: Terror Victims
-        slug: human_situations:benefit_holders:social_security:terror_victims
     - name: Holocaust Survivors
       slug: human_situations:benefit_holders:holocaust_survivors
     - name: Ministry of Health
@@ -644,8 +637,6 @@
         slug: human_situations:deprivation:at_risk:at_risk_children
       - name: At Risk Teens
         slug: human_situations:deprivation:at_risk:at_risk_teens
-      - name: At Risk Teen Girls
-        slug: human_situations:deprivation:at_risk:at_risk_teen_girls
       - name: At Risk Youth
         slug: human_situations:deprivation:at_risk:at_risk_youth
     - name: Geographical Periphery
@@ -991,6 +982,8 @@
       slug: human_situations:survivors:families_of_missing_persons
     - name: Victims of Terror
       slug: human_situations:survivors:victims_of_terror
+    - name: Bereaved Families of Terror
+      slug: human_situations:survivors:bereaved_families_of_terror
   - name: Urgency
     slug: human_situations:urgency
     items:

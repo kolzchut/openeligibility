@@ -18,14 +18,12 @@ human_situations:armed_forces:veterans,Human Situations,מצבים,Armed Forces,
 human_situations:armed_forces:police,Human Situations,מצבים,Armed Forces,אנשי צבא וביטחון,Police,כוחות המשטרה
 human_situations:benefit_holders,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות
 human_situations:benefit_holders:social_security,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Social Security,מוכרות מביטוח לאומי
-human_situations:benefit_holders:social_security:bereaved_families_of_terror,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Social Security,מוכרות מביטוח לאומי,Bereaved Families of Terror,משפחות חללי פעולות האיבה
 human_situations:benefit_holders:social_security:disability,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Social Security,מוכרות מביטוח לאומי,Disability,מקבלי קצבאת נכות
 human_situations:benefit_holders:social_security:income_security,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Social Security,מוכרות מביטוח לאומי,Income Security,מקבלי הבטחת הכנסה
 human_situations:benefit_holders:social_security:nursing_care,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Social Security,מוכרות מביטוח לאומי,Nursing Care,מקבלי קבצת סיעוד
 human_situations:benefit_holders:social_security:righteous_among_the_nations,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Social Security,מוכרות מביטוח לאומי,Righteous Among the Nations,חסידי אומות עולם
 human_situations:benefit_holders:social_security:ussr_veterans,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Social Security,מוכרות מביטוח לאומי,USSR Veterans,וטרנים
 human_situations:benefit_holders:social_security:zion_prisoners,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Social Security,מוכרות מביטוח לאומי,Zion Prisoners,אסירי ציון
-human_situations:benefit_holders:social_security:terror_victims,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Social Security,מוכרות מביטוח לאומי,Terror Victims,נפגעי פעולות איבה
 human_situations:benefit_holders:holocaust_survivors,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Holocaust Survivors,ניצולי שואה
 human_situations:benefit_holders:ministry_of_health,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Ministry of Health,מוכרי משרד הבריאות
 human_situations:benefit_holders:ministry_of_health:rehabilitation_basket,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Ministry of Health,מוכרי משרד הבריאות,Rehabilitation Basket,זכאי סל שיקום
@@ -56,7 +54,6 @@ human_situations:deprivation,Human Situations,מצבים,Deprivation,רקע אי
 human_situations:deprivation:at_risk,Human Situations,מצבים,Deprivation,רקע אישי,At risk,בסיכון
 human_situations:deprivation:at_risk:at_risk_children,Human Situations,מצבים,Deprivation,רקע אישי,At risk,בסיכון,At Risk Children,ילדים בסיכון
 human_situations:deprivation:at_risk:at_risk_teens,Human Situations,מצבים,Deprivation,רקע אישי,At risk,בסיכון,At Risk Teens,נערים בסיכון
-human_situations:deprivation:at_risk:at_risk_teen_girls,Human Situations,מצבים,Deprivation,רקע אישי,At risk,בסיכון,At Risk Teen Girls,נערות וצעירות בסיכון
 human_situations:deprivation:at_risk:at_risk_youth,Human Situations,מצבים,Deprivation,רקע אישי,At risk,בסיכון,At Risk Youth,צעירים בסיכון
 human_situations:deprivation:geographical_periphery,Human Situations,מצבים,Deprivation,רקע אישי,Geographical Periphery,אנשים מפריפריה גיאוגרפית
 human_situations:deprivation:social_periphary,Human Situations,מצבים,Deprivation,רקע אישי,Social Periphary,אנשים מפריפריה חברתית
@@ -216,6 +213,7 @@ human_situations:survivors:evacuees,Human Situations,מצבים,Survivors,ניצ
 human_situations:survivors:wounded,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Wounded,פצועים
 human_situations:survivors:families_of_missing_persons,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Families of Missing Persons,משפחות של נעדרים
 human_situations:survivors:victims_of_terror,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Victims of Terror,נפגעי פעולות איבה
+human_situations:survivors:bereaved_families_of_terror,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Bereaved Families of Terror,
 human_situations:urgency,Human Situations,מצבים,Urgency,דחיפות
 human_situations:urgency:emergency,Human Situations,מצבים,Urgency,דחיפות,Emergency,מצב חירום
 human_situations:urgency:in_crisis,Human Situations,מצבים,Urgency,דחיפות,In Crisis,אנשים במשבר נפשי
