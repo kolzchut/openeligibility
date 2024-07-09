@@ -441,8 +441,6 @@
       slug: human_services:money:tax_preparation
     - name: Consumer Rights Protection
       slug: human_services:money:consumer_rights_protection
-    - name: Business mentorship
-      slug: human_services:money:business_mentorship
   - name: Work
     slug: human_services:work
     items:
@@ -468,6 +466,8 @@
         slug: human_services:work:special_employment:protected_factory
       - name: Employment Club
         slug: human_services:work:special_employment:employment_club
+    - name: Business mentorship
+      slug: human_services:work:business_mentorship
   - name: Culture and Sports
     slug: human_services:culture_and_sports
     items:

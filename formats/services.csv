@@ -200,7 +200,6 @@ human_services:money:loans:business_loan,Human Services,מענים חברתיי�
 human_services:money:loans:personal_loan,Human Services,מענים חברתיים,Money,סיוע כלכלי,Loans,הלוואות,Personal Loan,הלוואות אישיות
 human_services:money:tax_preparation,Human Services,מענים חברתיים,Money,סיוע כלכלי,Tax Preparation,סיוע בהגשת מיסים
 human_services:money:consumer_rights_protection,Human Services,מענים חברתיים,Money,סיוע כלכלי,Consumer Rights Protection,הגנת זכויות הצרכן
-human_services:money:business_mentorship,Human Services,מענים חברתיים,Money,סיוע כלכלי,Business mentorship,
 human_services:work,Human Services,מענים חברתיים,Work,עבודה
 human_services:work:help_find_work,Human Services,מענים חברתיים,Work,עבודה,Help Find Work,סיוע במציאת עבודה
 human_services:work:skills_training,Human Services,מענים חברתיים,Work,עבודה,Skills & Training,הכשרה מקצועית
@@ -212,6 +211,7 @@ human_services:work:special_employment:supported_employment,Human Services,מע�
 human_services:work:special_employment:protected_employment,Human Services,מענים חברתיים,Work,עבודה,Special Employment,תעסוקה מיוחדת,Protected Employment,תעסוקה מוגנת
 human_services:work:special_employment:protected_factory,Human Services,מענים חברתיים,Work,עבודה,Special Employment,תעסוקה מיוחדת,Protected Factory,מפעל מוגן
 human_services:work:special_employment:employment_club,Human Services,מענים חברתיים,Work,עבודה,Special Employment,תעסוקה מיוחדת,Employment Club,מועדון תעסוקתי
+human_services:work:business_mentorship,Human Services,מענים חברתיים,Work,עבודה,Business mentorship,
 human_services:culture_and_sports,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט
 human_services:culture_and_sports:fine_art,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Fine Art,אומנות
 human_services:culture_and_sports:cinema,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Cinema,קולנוע
