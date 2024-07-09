@@ -18,5 +18,6 @@ human_places:health:clinic:mental_health_clinic,Human Places,מקומות,Health
 human_places:health:clinic:gp_clinic,Human Places,מקומות,Health,בריאות,Clinic,מרפאה,GP Clinic,קופת חולים
 human_places:health:clinic:well_baby_clinic,Human Places,מקומות,Health,בריאות,Clinic,מרפאה,Well Baby Clinic,טיפת חלב
 human_places:health:hospital,Human Places,מקומות,Health,בריאות,Hospital,בית חולים
+human_places:health:child_dvelopment_center,Human Places,מקומות,Health,בריאות,Child Dvelopment Center,
 human_places:government_service_point,Human Places,מקומות,Government Service Point,עמדת שירות ממשלתי
 human_places:welfare_bureau,Human Places,מקומות,Welfare Bureau,מחלקה לשירותים חברתיים

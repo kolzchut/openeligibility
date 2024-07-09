@@ -441,6 +441,8 @@
       slug: human_services:money:tax_preparation
     - name: Consumer Rights Protection
       slug: human_services:money:consumer_rights_protection
+    - name: Business mentorship
+      slug: human_services:money:business_mentorship
   - name: Work
     slug: human_services:work
     items:
@@ -1035,6 +1037,8 @@
         slug: human_places:health:clinic:well_baby_clinic
     - name: Hospital
       slug: human_places:health:hospital
+    - name: Child Dvelopment Center
+      slug: human_places:health:child_dvelopment_center
   - name: Government Service Point
     slug: human_places:government_service_point
   - name: Welfare Bureau
