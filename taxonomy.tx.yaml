@@ -1464,42 +1464,36 @@
         tx:
           he: הגיל הרך
       slug: human_situations:age_group:infants
-      description: 0-1 years old
       pk: 8b0f5ed536a14f6da5317047f9044a9d
     - name:
         source: Children
         tx:
           he: ילדים
       slug: human_situations:age_group:children
-      description: 2-12 years old
       pk: 965c8af17a464fd8aab7a6b3e320bda6
     - name:
         source: Teens
         tx:
           he: נוער
       slug: human_situations:age_group:teens
-      description: 13-19 years old
       pk: 6e1cee972d2c43a89d14c77022ff36e6
     - name:
         source: Young Adults
         tx:
           he: צעירים
       slug: human_situations:age_group:young_adults
-      description: 20-30 years old
       pk: feb50212e85f451fb502aa7570b34e93
     - name:
         source: Adults
         tx:
           he: מבוגרים
       slug: human_situations:age_group:adults
-      description: 31-54 years old
       pk: 019e86e599864f99b85fa19cfa5ec924
     - name:
         source: Seniors
         tx:
           he: אזרחים ותיקים
       slug: human_situations:age_group:seniors
-      description: 55+ years old
       pk: 786c75c93d3e49d3b6f36e932d3604c5
     pk: 19c6e2719f844a548c8f9fd59cd61788
   - name:
