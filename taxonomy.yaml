@@ -33,8 +33,6 @@
       slug: human_services:care:in_home_support
     - name: Mentoring
       slug: human_services:care:mentoring
-    - name: One-on-One Support
-      slug: human_services:care:one_on_one_support
     - name: Spiritual Support
       slug: human_services:care:spiritual_support
     - name: Support Group
