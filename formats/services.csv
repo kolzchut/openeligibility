@@ -6,9 +6,9 @@ human_services:care:accessibility:translation,Human Services,מענים חברת
 human_services:care:adoption_foster_care,Human Services,מענים חברתיים,Care,רווחה,Adoption & Foster Care,אימוץ ואומנה
 human_services:care:aid_center,Human Services,מענים חברתיים,Care,רווחה,Aid Center,מרכז סיוע
 human_services:care:daytime_care,Human Services,מענים חברתיים,Care,רווחה,Daytime Care,מסגרת יום
-human_services:care:early_childhood_intervention,Human Services,מענים חברתיים,Care,רווחה,Early Childhood Intervention,אבחון התפתחותי
+human_services:care:early_childhood_intervention,Human Services,מענים חברתיים,Care,רווחה,Early Childhood Intervention,אבחונים
 human_services:care:guidance,Human Services,מענים חברתיים,Care,רווחה,Guidance,ליווי והדרכה
-human_services:care:recovery,Human Services,מענים חברתיים,Care,רווחה,Recovery,שיקום חברתי
+human_services:care:recovery,Human Services,מענים חברתיים,Care,רווחה,Recovery,שיקום ושילוב מחדש בחברה
 human_services:care:risk_assessment,Human Services,מענים חברתיים,Care,רווחה,Risk Assessment,הערכת מסוכנות
 human_services:care:support_network,Human Services,מענים חברתיים,Care,רווחה,Support Network,רשת תמיכה
 human_services:care:help_hotline,Human Services,מענים חברתיים,Care,רווחה,Help Hotline,קו סיוע
@@ -39,7 +39,7 @@ human_services:education:further_education:yeshiva_and_kollel,Human Services,מ�
 human_services:education:academia,Human Services,מענים חברתיים,Education,חינוך,Academia,אקדמיה
 human_services:education:academia:college_readiness,Human Services,מענים חברתיים,Education,חינוך,Academia,אקדמיה,College Readiness,הכנה לאוניברסיטה
 human_services:education:special_education,Human Services,מענים חברתיים,Education,חינוך,Special Education,חינוך מיוחד
-human_services:education:integration_in_education,Human Services,מענים חברתיים,Education,חינוך,Integration in Education,שילוב בחינוך
+human_services:education:integration_in_education,Human Services,מענים חברתיים,Education,חינוך,Integration in Education,מסגרות משלבות
 human_services:education:high_school_yeshiva,Human Services,מענים חברתיים,Education,חינוך,High School Yeshiva,ישיבה תיכונית
 human_services:education:ulpana,Human Services,מענים חברתיים,Education,חינוך,Ulpana,אולפנה
 human_services:education:youth_villages,Human Services,מענים חברתיים,Education,חינוך,Youth Villages,כפר נוער
@@ -69,7 +69,7 @@ human_services:emergency,Human Services,מענים חברתיים,Emergency,חי
 human_services:emergency:disaster_response,Human Services,מענים חברתיים,Emergency,חירום,Disaster Response,תגובה לאסונות
 human_services:emergency:emergency_food,Human Services,מענים חברתיים,Emergency,חירום,Emergency Food,מזון בחירום
 human_services:emergency:emergency_helpline,Human Services,מענים חברתיים,Emergency,חירום,Emergency Helpline,הכוונה בחירום
-human_services:emergency:emergency_shelter,Human Services,מענים חברתיים,Emergency,חירום,Emergency Shelter,מקלט חירום
+human_services:emergency:emergency_shelter,Human Services,מענים חברתיים,Emergency,חירום,Emergency Shelter,מקלט ציבורי
 human_services:emergency:help_find_missing_persons,Human Services,מענים חברתיים,Emergency,חירום,Help Find Missing Persons,איתור נעדרים
 human_services:emergency:financial_aid_in_emergencies,Human Services,מענים חברתיים,Emergency,חירום,Financial Aid in Emergencies,סיוע כספי בחירום
 human_services:emergency:animal_assistance,Human Services,מענים חברתיים,Emergency,חירום,Animal Assistance,סיוע לבעלי חיים בחירום
@@ -80,22 +80,22 @@ human_services:food,Human Services,מענים חברתיים,Food,מזון
 human_services:food:food_delivery,Human Services,מענים חברתיים,Food,מזון,Food Delivery,סלי מזון
 human_services:food:food_pantry,Human Services,מענים חברתיים,Food,מזון,Food Pantry,בתי תמחוי
 human_services:food:nutrition,Human Services,מענים חברתיים,Food,מזון,Nutrition,תזונה
-human_services:food:nutrition_education,Human Services,מענים חברתיים,Food,מזון,Nutrition Education,חינוך תזונתי
+human_services:food:nutrition_education,Human Services,מענים חברתיים,Food,מזון,Nutrition Education,חינוך והדרכה בנושאי תזונה
 human_services:goods,Human Services,מענים חברתיים,Goods,ציוד
 human_services:goods:baby_supplies,Human Services,מענים חברתיים,Goods,ציוד,Baby Supplies,מוצרי תינוקות
 human_services:goods:clothing,Human Services,מענים חברתיים,Goods,ציוד,Clothing,בגדים
 human_services:goods:home_goods,Human Services,מענים חברתיים,Goods,ציוד,Home Goods,מוצרים לבית
 human_services:goods:toys_gifts,Human Services,מענים חברתיים,Goods,ציוד,Toys & Gifts,צעצועים ומתנות
 human_services:health,Human Services,מענים חברתיים,Health,שירותי בריאות
-human_services:health:addiction_recovery,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות
-human_services:health:addiction_recovery:detox,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Detox,גמילה
-human_services:health:addiction_recovery:medications_for_addiction,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Medications for Addiction,תרופות להתמכרות
-human_services:health:addiction_recovery:substance_abuse_counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Substance Abuse Counseling,ייעוץ רגשי למתמכרים
-human_services:health:addiction_recovery:support_groups,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Support groups,קבוצת תמיכה
+human_services:health:addiction_recovery,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,טיפול בהתמכרויות
+human_services:health:addiction_recovery:detox,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,טיפול בהתמכרויות,Detox,מוסדות גמילה
+human_services:health:addiction_recovery:medications_for_addiction,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,טיפול בהתמכרויות,Medications for Addiction,תרופות להתמכרות
+human_services:health:addiction_recovery:substance_abuse_counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,טיפול בהתמכרויות,Substance Abuse Counseling,ייעוץ רגשי למתמכרים
+human_services:health:addiction_recovery:support_groups,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,טיפול בהתמכרויות,Support groups,קבוצת תמיכה
 human_services:health:dental_care,Human Services,מענים חברתיים,Health,שירותי בריאות,Dental Care,טיפולי שיניים
 human_services:health:dental_care:dental_emergency_service,Human Services,מענים חברתיים,Health,שירותי בריאות,Dental Care,טיפולי שיניים,Dental Emergency Service,טיפול שיניים דחוף
-human_services:health:help_find_healthcare,Human Services,מענים חברתיים,Health,שירותי בריאות,Help Find Healthcare,עזרה במציאת טיפול רפואי
-human_services:health:end_of_life_care,Human Services,מענים חברתיים,Health,שירותי בריאות,End-of-Life Care,טיפול במצב סופני
+human_services:health:help_find_healthcare,Human Services,מענים חברתיים,Health,שירותי בריאות,Help Find Healthcare,ייעוץ והכוונה רפואיים
+human_services:health:end_of_life_care,Human Services,מענים חברתיים,Health,שירותי בריאות,End-of-Life Care,טיפול תומך במצב סופני
 human_services:health:health_education,Human Services,מענים חברתיים,Health,שירותי בריאות,Health Education,חינוך בריאותי
 human_services:health:mental_health_care,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש
 human_services:health:mental_health_care:anger_management,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Anger Management,ניהול כעסים
@@ -112,9 +112,9 @@ human_services:health:mental_health_care:hospitalization:voluntary_hospitalizati
 human_services:health:mental_health_care:hospitalization:hospitalization_alternative,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Hospitalization Alternative,חלופות אשפוז
 human_services:health:mental_health_care:hospitalization:hospitalization_alternative:balancing_house,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Hospitalization Alternative,חלופות אשפוז,Balancing House,בית מאזן
 human_services:health:mental_health_care:hospitalization:home_hospitalization,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Home Hospitalization,אשפוז ביתי
-human_services:health:medical_supplies,Human Services,מענים חברתיים,Health,שירותי בריאות,Medical Supplies,השאלת ציוד רפואי
-human_services:health:medical_supplies:assistive_technology,Human Services,מענים חברתיים,Health,שירותי בריאות,Medical Supplies,השאלת ציוד רפואי,Assistive Technology,טכנולוגיה מסייעת
-human_services:health:medical_supplies:prosthesis,Human Services,מענים חברתיים,Health,שירותי בריאות,Medical Supplies,השאלת ציוד רפואי,Prosthesis,פרוטזות
+human_services:health:medical_supplies,Human Services,מענים חברתיים,Health,שירותי בריאות,Medical Supplies,ציוד רפואי
+human_services:health:medical_supplies:assistive_technology,Human Services,מענים חברתיים,Health,שירותי בריאות,Medical Supplies,ציוד רפואי,Assistive Technology,טכנולוגיה מסייעת
+human_services:health:medical_supplies:prosthesis,Human Services,מענים חברתיים,Health,שירותי בריאות,Medical Supplies,ציוד רפואי,Prosthesis,פרוטזות
 human_services:health:prevent_treat,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי
 human_services:health:prevent_treat:alternative_medicine,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי,Alternative Medicine,רפואה אלטרנטיבית
 human_services:health:prevent_treat:checkup_test,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי,Checkup & Test,בדיקות
