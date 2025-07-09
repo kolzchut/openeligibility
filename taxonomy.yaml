@@ -145,8 +145,6 @@
   - name: Emergency
     slug: human_services:emergency
     items:
-    - name: Disaster Response
-      slug: human_services:emergency:disaster_response
     - name: Emergency Food
       slug: human_services:emergency:emergency_food
     - name: Emergency Helpline
