@@ -58,14 +58,14 @@ human_services:education:more_education:prep_mechina:army_prep,Human Services,מ
 human_services:education:more_education:prep_mechina:university_prep,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Prep - Mechina,מכינה,University Prep,מכינה אוניברסיטאית
 human_services:education:more_education:youth_development,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Youth Development,קידום נוער
 human_services:education:more_education:youth_movement,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Youth Movement,תנועות נוער
-human_services:education:more_education:sex_education,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Sex Education,
+human_services:education:more_education:sex_education,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Sex Education,חינוך מיני
 human_services:education:leadership_development,Human Services,מענים חברתיים,Education,חינוך,Leadership development,פיתוח מנהיגות
-human_services:education:bagrut_high_school_equivalency,Human Services,מענים חברתיים,Education,חינוך,Bagrut/High-School Equivalency,
+human_services:education:bagrut_high_school_equivalency,Human Services,מענים חברתיים,Education,חינוך,Bagrut/High-School Equivalency,הכנה לבחינות בגרות
 human_services:education:screening_exams,Human Services,מענים חברתיים,Education,חינוך,Screening & Exams,מבחנים ומיונים
 human_services:education:screening_exams:bagrut_high_school_equivalency,Human Services,מענים חברתיים,Education,חינוך,Screening & Exams,מבחנים ומיונים,Bagrut/High-School Equivalency,הכנה לבחינות בגרות
 human_services:education:skills_training,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות
 human_services:education:skills_training:basic_literacy,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות,Basic Literacy,אוריינות
-human_services:education:skills_training:parenting_education,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות,Parenting Education,
+human_services:education:skills_training:parenting_education,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות,Parenting Education,הדרכת הורים
 human_services:education:skills_training:computer_class,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות,Computer Class,אוריינות דיגיטלית
 human_services:education:skills_training:daily_life_skills,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות,Daily Life Skills,כישורי חיים
 human_services:emergency,Human Services,מענים חברתיים,Emergency,חירום
@@ -99,7 +99,7 @@ human_services:health:dental_care:dental_emergency_service,Human Services,מענ
 human_services:health:help_find_healthcare,Human Services,מענים חברתיים,Health,שירותי בריאות,Help Find Healthcare,ייעוץ והכוונה רפואיים
 human_services:health:end_of_life_care,Human Services,מענים חברתיים,Health,שירותי בריאות,End-of-Life Care,טיפול תומך במצב סופני
 human_services:health:health_education,Human Services,מענים חברתיים,Health,שירותי בריאות,Health Education,חינוך בריאותי
-human_services:health:emergency_mental_assistance,Human Services,מענים חברתיים,Health,שירותי בריאות,Emergency Mental Assistance,
+human_services:health:emergency_mental_assistance,Human Services,מענים חברתיים,Health,שירותי בריאות,Emergency Mental Assistance,סיוע נפשי מיידי
 human_services:health:mental_health_care,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש
 human_services:health:mental_health_care:anger_management,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Anger Management,ניהול כעסים
 human_services:health:mental_health_care:counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Counseling,טיפול רגשי (פסיכולוגי)
