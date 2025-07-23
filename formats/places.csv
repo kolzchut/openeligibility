@@ -1,7 +1,7 @@
 slug,level0:name_en,level0:name_he,level1:name_en,level1:name_he,level2:name_en,level2:name_he
 human_places,Human Places,מקומות
 human_places:community,Human Places,מקומות,Community,קהילה
-human_places:community:community_center,Human Places,מקומות,Community,קהילה,Community Center,"מתנ""ס"
+human_places:community:community_center,Human Places,מקומות,Community,קהילה,Community Center,מרכז קהילתי
 human_places:community:library,Human Places,מקומות,Community,קהילה,Library,ספרייה
 human_places:religion,Human Places,מקומות,Religion,דת
 human_places:religion:synagogue,Human Places,מקומות,Religion,דת,Synagogue,בית כנסת

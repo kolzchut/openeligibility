@@ -126,8 +126,12 @@
         slug: human_services:education:more_education:youth_development
       - name: Youth Movement
         slug: human_services:education:more_education:youth_movement
+      - name: Sex Education
+        slug: human_services:education:more_education:sex_education
     - name: Leadership development
       slug: human_services:education:leadership_development
+    - name: Bagrut/High-School Equivalency
+      slug: human_services:education:bagrut_high_school_equivalency
     - name: Screening & Exams
       slug: human_services:education:screening_exams
       items:
@@ -138,6 +142,8 @@
       items:
       - name: Basic Literacy
         slug: human_services:education:skills_training:basic_literacy
+      - name: Parenting Education
+        slug: human_services:education:skills_training:parenting_education
       - name: Computer Class
         slug: human_services:education:skills_training:computer_class
       - name: Daily Life Skills
@@ -210,6 +216,8 @@
       slug: human_services:health:end_of_life_care
     - name: Health Education
       slug: human_services:health:health_education
+    - name: Emergency Mental Assistance
+      slug: human_services:health:emergency_mental_assistance
     - name: Mental Health Care
       slug: human_services:health:mental_health_care
       items:
@@ -228,6 +236,8 @@
         slug: human_services:health:mental_health_care:medications_for_mental_health
       - name: Mental Health Evaluation
         slug: human_services:health:mental_health_care:mental_health_evaluation
+      - name: Psychiatric Treatment
+        slug: human_services:health:mental_health_care:psychiatric_treatment
       - name: Family Advice Center
         slug: human_services:health:mental_health_care:family_advice_center
       - name: Hospitalization
@@ -307,6 +317,8 @@
           slug: human_services:health:sexual_reproductive_health:family_planning:fertility
         - name: Sex Education
           slug: human_services:health:sexual_reproductive_health:family_planning:sex_education
+      - name: Postpartum Counseling
+        slug: human_services:health:sexual_reproductive_health:postpartum_counseling
       - name: STD/STI Treatment & Prevention
         slug: human_services:health:sexual_reproductive_health:std_sti_treatment_prevention
         items:
