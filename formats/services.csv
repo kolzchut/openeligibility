@@ -108,7 +108,7 @@ human_services:health:mental_health_care:counseling:group_therapy,Human Services
 human_services:health:mental_health_care:counseling:individual_counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Counseling,טיפול רגשי (פסיכולוגי),Individual Counseling,טיפול אישי
 human_services:health:mental_health_care:medications_for_mental_health,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Medications for Mental Health,טיפול תרופתי לבריאות הנפש
 human_services:health:mental_health_care:mental_health_evaluation,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Mental Health Evaluation,הערכה פסיכיאטרית
-human_services:health:mental_health_care:psychiatric_treatment,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Psychiatric Treatment,
+human_services:health:mental_health_care:psychiatric_treatment,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Psychiatric Treatment,טיפול פסיכיאטרי
 human_services:health:mental_health_care:family_advice_center,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Family Advice Center,מרכז ייעוץ למשפחות
 human_services:health:mental_health_care:hospitalization,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז
 human_services:health:mental_health_care:hospitalization:forced_hospitalization,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Forced Hospitalization,אשפוז כפוי
@@ -145,7 +145,7 @@ human_services:health:sexual_reproductive_health:family_planning,Human Services,
 human_services:health:sexual_reproductive_health:family_planning:birth_control,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,Family Planning,תכנון משפחה,Birth Control,אמצעי מניעה
 human_services:health:sexual_reproductive_health:family_planning:fertility,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,Family Planning,תכנון משפחה,Fertility,טיפולי פוריות
 human_services:health:sexual_reproductive_health:family_planning:sex_education,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,Family Planning,תכנון משפחה,Sex Education,חינוך מיני
-human_services:health:sexual_reproductive_health:postpartum_counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,Postpartum Counseling,
+human_services:health:sexual_reproductive_health:postpartum_counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,Postpartum Counseling,ייעוץ וליווי אחרי לידה
 human_services:health:sexual_reproductive_health:std_sti_treatment_prevention,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,STD/STI Treatment & Prevention,טיפול ומניעה של מחלות מין
 human_services:health:sexual_reproductive_health:std_sti_treatment_prevention:hiv_treatment,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,STD/STI Treatment & Prevention,טיפול ומניעה של מחלות מין,HIV Treatment,טיפול ב-HIV
 human_services:health:sexual_reproductive_health:womens_health,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,Women's Health,בריאות האישה
