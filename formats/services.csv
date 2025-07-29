@@ -18,7 +18,6 @@ human_services:care:mentoring,Human Services,מענים חברתיים,Care,רו
 human_services:care:spiritual_support,Human Services,מענים חברתיים,Care,רווחה,Spiritual Support,תמיכה רוחנית
 human_services:care:support_group,Human Services,מענים חברתיים,Care,רווחה,Support Group,קבוצת תמיכה
 human_services:care:support_group:bereavement,Human Services,מענים חברתיים,Care,רווחה,Support Group,קבוצת תמיכה,Bereavement,תמיכה באבל
-human_services:care:support_group:parenting_education,Human Services,מענים חברתיים,Care,רווחה,Support Group,קבוצת תמיכה,Parenting Education,הדרכת הורים
 human_services:care:relief_for_caregivers,Human Services,מענים חברתיים,Care,רווחה,Relief for Caregivers,סיוע לבני משפחה מטפלים
 human_services:care:vacations,Human Services,מענים חברתיים,Care,רווחה,Vacations,נופשונים
 human_services:community_services,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים
@@ -27,7 +26,6 @@ human_services:community_services:computer_or_internet_access,Human Services,מ�
 human_services:community_services:olim_support,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Olim Support,מוקדי קליטה
 human_services:community_services:recreation,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Recreation,פעילויות פנאי
 human_services:community_services:religious_services,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Religious Services,שירותי דת
-human_services:community_services:social_club,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Social Club,מועדון חברתי
 human_services:community_services:summer_camps,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Summer Camps,קייטנות
 human_services:education,Human Services,מענים חברתיים,Education,חינוך
 human_services:education:afterschool_care,Human Services,מענים חברתיים,Education,חינוך,Afterschool Care,צהרונים
@@ -61,8 +59,6 @@ human_services:education:more_education:youth_movement,Human Services,מענים
 human_services:education:more_education:sex_education,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Sex Education,חינוך מיני
 human_services:education:leadership_development,Human Services,מענים חברתיים,Education,חינוך,Leadership development,פיתוח מנהיגות
 human_services:education:bagrut_high_school_equivalency,Human Services,מענים חברתיים,Education,חינוך,Bagrut/High-School Equivalency,הכנה לבחינות בגרות
-human_services:education:screening_exams,Human Services,מענים חברתיים,Education,חינוך,Screening & Exams,מבחנים ומיונים
-human_services:education:screening_exams:bagrut_high_school_equivalency,Human Services,מענים חברתיים,Education,חינוך,Screening & Exams,מבחנים ומיונים,Bagrut/High-School Equivalency,הכנה לבחינות בגרות
 human_services:education:skills_training,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות
 human_services:education:skills_training:basic_literacy,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות,Basic Literacy,אוריינות
 human_services:education:skills_training:parenting_education,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות,Parenting Education,הדרכת הורים

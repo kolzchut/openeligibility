@@ -40,8 +40,6 @@
       items:
       - name: Bereavement
         slug: human_services:care:support_group:bereavement
-      - name: Parenting Education
-        slug: human_services:care:support_group:parenting_education
     - name: Relief for Caregivers
       slug: human_services:care:relief_for_caregivers
     - name: Vacations
@@ -59,8 +57,6 @@
       slug: human_services:community_services:recreation
     - name: Religious Services
       slug: human_services:community_services:religious_services
-    - name: Social Club
-      slug: human_services:community_services:social_club
     - name: Summer Camps
       slug: human_services:community_services:summer_camps
   - name: Education
@@ -132,11 +128,6 @@
       slug: human_services:education:leadership_development
     - name: Bagrut/High-School Equivalency
       slug: human_services:education:bagrut_high_school_equivalency
-    - name: Screening & Exams
-      slug: human_services:education:screening_exams
-      items:
-      - name: Bagrut/High-School Equivalency
-        slug: human_services:education:screening_exams:bagrut_high_school_equivalency
     - name: Skills & Training
       slug: human_services:education:skills_training
       items:
