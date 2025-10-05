@@ -18,7 +18,6 @@ human_services:care:mentoring,Human Services,מענים חברתיים,Care,רו
 human_services:care:spiritual_support,Human Services,מענים חברתיים,Care,רווחה,Spiritual Support,תמיכה רוחנית
 human_services:care:support_group,Human Services,מענים חברתיים,Care,רווחה,Support Group,קבוצת תמיכה
 human_services:care:support_group:bereavement,Human Services,מענים חברתיים,Care,רווחה,Support Group,קבוצת תמיכה,Bereavement,תמיכה באבל
-human_services:care:relief_for_caregivers,Human Services,מענים חברתיים,Care,רווחה,Relief for Caregivers,סיוע לבני משפחה מטפלים
 human_services:care:vacations,Human Services,מענים חברתיים,Care,רווחה,Vacations,נופשונים
 human_services:community_services,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים
 human_services:community_services:community_gardens,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Community Gardens,גינות קהילתיות
@@ -29,8 +28,6 @@ human_services:community_services:religious_services,Human Services,מענים �
 human_services:community_services:summer_camps,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Summer Camps,קייטנות
 human_services:education,Human Services,מענים חברתיים,Education,חינוך
 human_services:education:afterschool_care,Human Services,מענים חברתיים,Education,חינוך,Afterschool Care,צהרונים
-human_services:education:nursery,Human Services,מענים חברתיים,Education,חינוך,Nursery,פעוטון
-human_services:education:respite_activities,Human Services,מענים חברתיים,Education,חינוך,Respite Activities,פעילויות הפוגה
 human_services:education:further_education,Human Services,מענים חברתיים,Education,חינוך,Further Education,חינוך המשך
 human_services:education:further_education:engineering,Human Services,מענים חברתיים,Education,חינוך,Further Education,חינוך המשך,Engineering,הנדסאים
 human_services:education:further_education:yeshiva_and_kollel,Human Services,מענים חברתיים,Education,חינוך,Further Education,חינוך המשך,Yeshiva and Kollel,ישיבה וכולל
@@ -43,7 +40,6 @@ human_services:education:ulpana,Human Services,מענים חברתיים,Educati
 human_services:education:youth_villages,Human Services,מענים חברתיים,Education,חינוך,Youth Villages,כפר נוער
 human_services:education:boarding_school,Human Services,מענים חברתיים,Education,חינוך,Boarding School,פנימיה
 human_services:education:more_education,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה
-human_services:education:more_education:alternative_education,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Alternative Education,חינוך אלטרנטיבי
 human_services:education:more_education:civic_engagement,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Civic Engagement,מעורבות חברתית
 human_services:education:more_education:army_readiness,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Army Readiness,הכנה לצבא
 human_services:education:more_education:national_service_readiness,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,National Service Readiness,הכנה לשירות לאומי
@@ -65,7 +61,6 @@ human_services:education:skills_training:parenting_education,Human Services,מע
 human_services:education:skills_training:computer_class,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות,Computer Class,אוריינות דיגיטלית
 human_services:education:skills_training:daily_life_skills,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות,Daily Life Skills,כישורי חיים
 human_services:emergency,Human Services,מענים חברתיים,Emergency,חירום
-human_services:emergency:emergency_food,Human Services,מענים חברתיים,Emergency,חירום,Emergency Food,מזון בחירום
 human_services:emergency:emergency_helpline,Human Services,מענים חברתיים,Emergency,חירום,Emergency Helpline,הכוונה בחירום
 human_services:emergency:emergency_shelter,Human Services,מענים חברתיים,Emergency,חירום,Emergency Shelter,מקלט ציבורי
 human_services:emergency:help_find_missing_persons,Human Services,מענים חברתיים,Emergency,חירום,Help Find Missing Persons,איתור נעדרים

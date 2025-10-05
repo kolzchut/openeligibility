@@ -40,8 +40,6 @@
       items:
       - name: Bereavement
         slug: human_services:care:support_group:bereavement
-    - name: Relief for Caregivers
-      slug: human_services:care:relief_for_caregivers
     - name: Vacations
       slug: human_services:care:vacations
   - name: Community Services
@@ -64,10 +62,6 @@
     items:
     - name: Afterschool Care
       slug: human_services:education:afterschool_care
-    - name: Nursery
-      slug: human_services:education:nursery
-    - name: Respite Activities
-      slug: human_services:education:respite_activities
     - name: Further Education
       slug: human_services:education:further_education
       items:
@@ -95,8 +89,6 @@
     - name: More Education
       slug: human_services:education:more_education
       items:
-      - name: Alternative Education
-        slug: human_services:education:more_education:alternative_education
       - name: Civic Engagement
         slug: human_services:education:more_education:civic_engagement
       - name: Army Readiness
@@ -142,8 +134,6 @@
   - name: Emergency
     slug: human_services:emergency
     items:
-    - name: Emergency Food
-      slug: human_services:emergency:emergency_food
     - name: Emergency Helpline
       slug: human_services:emergency:emergency_helpline
     - name: Emergency Shelter
