@@ -142,10 +142,6 @@
       slug: human_services:emergency:help_find_missing_persons
     - name: Financial Aid in Emergencies
       slug: human_services:emergency:financial_aid_in_emergencies
-    - name: Animal Assistance
-      slug: human_services:emergency:animal_assistance
-    - name: Emergency Mental Assistance
-      slug: human_services:emergency:emergency_mental_assistance
     - name: Farming Assistance
       slug: human_services:emergency:farming_assistance
     - name: Fortification
@@ -157,8 +153,6 @@
       slug: human_services:food:food_delivery
     - name: Food Pantry
       slug: human_services:food:food_pantry
-    - name: Nutrition
-      slug: human_services:food:nutrition
     - name: Nutrition Education
       slug: human_services:food:nutrition_education
   - name: Goods
@@ -188,9 +182,6 @@
         slug: human_services:health:addiction_recovery:support_groups
     - name: Dental Care
       slug: human_services:health:dental_care
-      items:
-      - name: Dental Emergency Service
-        slug: human_services:health:dental_care:dental_emergency_service
     - name: Help Find Healthcare
       slug: human_services:health:help_find_healthcare
     - name: End-of-Life Care
@@ -213,10 +204,6 @@
           slug: human_services:health:mental_health_care:counseling:group_therapy
         - name: Individual Counseling
           slug: human_services:health:mental_health_care:counseling:individual_counseling
-      - name: Medications for Mental Health
-        slug: human_services:health:mental_health_care:medications_for_mental_health
-      - name: Mental Health Evaluation
-        slug: human_services:health:mental_health_care:mental_health_evaluation
       - name: Psychiatric Treatment
         slug: human_services:health:mental_health_care:psychiatric_treatment
       - name: Family Advice Center
@@ -228,6 +215,8 @@
           slug: human_services:health:mental_health_care:hospitalization:forced_hospitalization
         - name: Voluntary Hospitalization
           slug: human_services:health:mental_health_care:hospitalization:voluntary_hospitalization
+        - name: Balancing House
+          slug: human_services:health:mental_health_care:hospitalization:balancing_house
         - name: Hospitalization Alternative
           slug: human_services:health:mental_health_care:hospitalization:hospitalization_alternative
           items:
@@ -250,18 +239,12 @@
       - name: Checkup & Test
         slug: human_services:health:prevent_treat:checkup_test
         items:
-        - name: Disease Screening
-          slug: human_services:health:prevent_treat:checkup_test:disease_screening
         - name: Eye Tests
           slug: human_services:health:prevent_treat:checkup_test:eye_tests
         - name: Genetic Testing
           slug: human_services:health:prevent_treat:checkup_test:genetic_testing
         - name: Hearing Tests
           slug: human_services:health:prevent_treat:checkup_test:hearing_tests
-        - name: Pregnancy Test
-          slug: human_services:health:prevent_treat:checkup_test:pregnancy_test
-      - name: Hospital Treatment
-        slug: human_services:health:prevent_treat:hospital_treatment
       - name: In-Home Support
         slug: human_services:health:prevent_treat:in_home_support
       - name: Occupational Therapy
@@ -272,16 +255,10 @@
         slug: human_services:health:prevent_treat:physical_therapy
       - name: Rehabilitation
         slug: human_services:health:prevent_treat:rehabilitation
-      - name: Specialized Therapy
-        slug: human_services:health:prevent_treat:specialized_therapy
       - name: Speech Therapy
         slug: human_services:health:prevent_treat:speech_therapy
       - name: Vaccinations
         slug: human_services:health:prevent_treat:vaccinations
-      - name: Eye Care
-        slug: human_services:health:prevent_treat:eye_care
-    - name: Residential Treatment
-      slug: human_services:health:residential_treatment
     - name: Personal Hygiene
       slug: human_services:health:personal_hygiene
     - name: Primary Care
@@ -289,15 +266,6 @@
     - name: Sexual & Reproductive Health
       slug: human_services:health:sexual_reproductive_health
       items:
-      - name: Family Planning
-        slug: human_services:health:sexual_reproductive_health:family_planning
-        items:
-        - name: Birth Control
-          slug: human_services:health:sexual_reproductive_health:family_planning:birth_control
-        - name: Fertility
-          slug: human_services:health:sexual_reproductive_health:family_planning:fertility
-        - name: Sex Education
-          slug: human_services:health:sexual_reproductive_health:family_planning:sex_education
       - name: Postpartum Counseling
         slug: human_services:health:sexual_reproductive_health:postpartum_counseling
       - name: STD/STI Treatment & Prevention
@@ -305,13 +273,6 @@
         items:
         - name: HIV Treatment
           slug: human_services:health:sexual_reproductive_health:std_sti_treatment_prevention:hiv_treatment
-      - name: Women's Health
-        slug: human_services:health:sexual_reproductive_health:womens_health
-        items:
-        - name: Maternity Care
-          slug: human_services:health:sexual_reproductive_health:womens_health:maternity_care
-        - name: Postnatal Care
-          slug: human_services:health:sexual_reproductive_health:womens_health:postnatal_care
     - name: Skilled Nursing
       slug: human_services:health:skilled_nursing
     - name: Support & Service Animals
