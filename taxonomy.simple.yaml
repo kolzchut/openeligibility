@@ -68,15 +68,12 @@
     - Emergency Shelter
     - Help Find Missing Persons
     - Financial Aid in Emergencies
-    - Animal Assistance
-    - Emergency Mental Assistance
     - Farming Assistance
     - Fortification
 
   - Food:
     - Food Delivery
     - Food Pantry
-    - Nutrition
     - Nutrition Education
 
   - Goods:
@@ -91,8 +88,7 @@
       - Medications for Addiction
       - Substance Abuse Counseling
       - Support groups
-    - Dental Care:
-      - Dental Emergency Service
+    - Dental Care
     - Help Find Healthcare
     - End-of-Life Care
     - Health Education
@@ -103,13 +99,12 @@
         - Family Counseling
         - Group Therapy
         - Individual Counseling
-      - Medications for Mental Health
-      - Mental Health Evaluation
       - Psychiatric Treatment
       - Family Advice Center
       - Hospitalization:
         - Forced Hospitalization
         - Voluntary Hospitalization
+        - Balancing House
         - Hospitalization Alternative:
           - Balancing House
         - Home Hospitalization
@@ -119,35 +114,22 @@
     - Prevent & Treat:
       - Alternative Medicine
       - Checkup & Test:
-        - Disease Screening
         - Eye Tests
         - Genetic Testing
         - Hearing Tests
-        - Pregnancy Test
-      - Hospital Treatment
       - In-Home Support
       - Occupational Therapy
       - Pain Management
       - Physical Therapy
       - Rehabilitation
-      - Specialized Therapy
       - Speech Therapy
       - Vaccinations
-      - Eye Care
-    - Residential Treatment
     - Personal Hygiene
     - Primary Care
     - Sexual & Reproductive Health:
-      - Family Planning:
-        - Birth Control
-        - Fertility
-        - Sex Education
       - Postpartum Counseling
       - STD/STI Treatment & Prevention:
         - HIV Treatment
-      - Women's Health:
-        - Maternity Care
-        - Postnatal Care
     - Skilled Nursing
     - Support & Service Animals
 
