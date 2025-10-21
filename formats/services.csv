@@ -99,8 +99,6 @@ human_services:health:mental_health_care:hospitalization,Human Services,מעני
 human_services:health:mental_health_care:hospitalization:forced_hospitalization,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Forced Hospitalization,אשפוז כפוי
 human_services:health:mental_health_care:hospitalization:voluntary_hospitalization,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Voluntary Hospitalization,אשפוז מרצון
 human_services:health:mental_health_care:hospitalization:balancing_house,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Balancing House,בית מאזן
-human_services:health:mental_health_care:hospitalization:hospitalization_alternative,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Hospitalization Alternative,חלופות אשפוז
-human_services:health:mental_health_care:hospitalization:hospitalization_alternative:balancing_house,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Hospitalization Alternative,חלופות אשפוז,Balancing House,בית מאזן
 human_services:health:mental_health_care:hospitalization:home_hospitalization,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Home Hospitalization,אשפוז ביתי
 human_services:health:medical_supplies,Human Services,מענים חברתיים,Health,שירותי בריאות,Medical Supplies,ציוד רפואי
 human_services:health:medical_supplies:assistive_technology,Human Services,מענים חברתיים,Health,שירותי בריאות,Medical Supplies,ציוד רפואי,Assistive Technology,טכנולוגיה מסייעת

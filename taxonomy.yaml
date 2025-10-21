@@ -217,11 +217,6 @@
           slug: human_services:health:mental_health_care:hospitalization:voluntary_hospitalization
         - name: Balancing House
           slug: human_services:health:mental_health_care:hospitalization:balancing_house
-        - name: Hospitalization Alternative
-          slug: human_services:health:mental_health_care:hospitalization:hospitalization_alternative
-          items:
-          - name: Balancing House
-            slug: human_services:health:mental_health_care:hospitalization:hospitalization_alternative:balancing_house
         - name: Home Hospitalization
           slug: human_services:health:mental_health_care:hospitalization:home_hospitalization
     - name: Medical Supplies
