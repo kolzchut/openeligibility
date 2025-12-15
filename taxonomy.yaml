@@ -103,6 +103,8 @@
         slug: human_services:education:more_education:environmental_education
       - name: Foreign Languages
         slug: human_services:education:more_education:foreign_languages
+      - name: Financial Education
+        slug: human_services:education:more_education:financial_education
       - name: Prep - Mechina
         slug: human_services:education:more_education:prep_mechina
         items:
@@ -298,16 +300,12 @@
           slug: human_services:housing:residential_housing:long_term_housing:assisted_living
         - name: Hostel
           slug: human_services:housing:residential_housing:long_term_housing:hostel
-        - name: Independent Living
-          slug: human_services:housing:residential_housing:long_term_housing:independent_living
         - name: Nursing Home
           slug: human_services:housing:residential_housing:long_term_housing:nursing_home
         - name: Old Age Home
           slug: human_services:housing:residential_housing:long_term_housing:old_age_home
         - name: Satellite Apartment
           slug: human_services:housing:residential_housing:long_term_housing:satellite_apartment
-        - name: Group Flat
-          slug: human_services:housing:residential_housing:long_term_housing:group_flat
     - name: Short-Term Housing
       slug: human_services:housing:short_term_housing
       items:
@@ -335,10 +333,6 @@
         slug: human_services:legal:advocacy_legal_aid:financial_difficulties
     - name: Mediation
       slug: human_services:legal:mediation
-    - name: Notary
-      slug: human_services:legal:notary
-    - name: Representation
-      slug: human_services:legal:representation
     - name: Legal Translation & Interpretation
       slug: human_services:legal:legal_translation_interpretation
   - name: Transport
@@ -362,19 +356,8 @@
         slug: human_services:money:financial_assistance:help_pay_for_healthcare
       - name: Help Pay for School
         slug: human_services:money:financial_assistance:help_pay_for_school
-        items:
-        - name: Books
-          slug: human_services:money:financial_assistance:help_pay_for_school:books
-        - name: Clothes for School
-          slug: human_services:money:financial_assistance:help_pay_for_school:clothes_for_school
-        - name: Transportation for School
-          slug: human_services:money:financial_assistance:help_pay_for_school:transportation_for_school
-        - name: Supplies for School
-          slug: human_services:money:financial_assistance:help_pay_for_school:supplies_for_school
     - name: Financial Education
       slug: human_services:money:financial_education
-    - name: Insurance
-      slug: human_services:money:insurance
     - name: Loans
       slug: human_services:money:loans
       items:
@@ -382,10 +365,6 @@
         slug: human_services:money:loans:business_loan
       - name: Personal Loan
         slug: human_services:money:loans:personal_loan
-    - name: Tax Preparation
-      slug: human_services:money:tax_preparation
-    - name: Consumer Rights Protection
-      slug: human_services:money:consumer_rights_protection
   - name: Work
     slug: human_services:work
     items:

@@ -47,6 +47,7 @@ human_services:education:more_education:english_as_a_second_language_esl,Human S
 human_services:education:more_education:enrichment_programs,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Enrichment Programs,תוכניות העשרה
 human_services:education:more_education:environmental_education,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Environmental Education,חינוך סביבתי
 human_services:education:more_education:foreign_languages,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Foreign Languages,לימודי שפות
+human_services:education:more_education:financial_education,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Financial Education,
 human_services:education:more_education:prep_mechina,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Prep - Mechina,מכינה
 human_services:education:more_education:prep_mechina:army_prep,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Prep - Mechina,מכינה,Army Prep,מכינה צבאית
 human_services:education:more_education:prep_mechina:university_prep,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Prep - Mechina,מכינה,University Prep,מכינה אוניברסיטאית
@@ -135,14 +136,12 @@ human_services:housing:residential_housing,Human Services,מענים חברתי�
 human_services:housing:residential_housing:long_term_housing,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי
 human_services:housing:residential_housing:long_term_housing:assisted_living,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Assisted Living,דיור מוגן
 human_services:housing:residential_housing:long_term_housing:hostel,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Hostel,הוסטל
-human_services:housing:residential_housing:long_term_housing:independent_living,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Independent Living,דיור עצמאי
 human_services:housing:residential_housing:long_term_housing:nursing_home,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Nursing Home,מוסד סיעודי
 human_services:housing:residential_housing:long_term_housing:old_age_home,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Old Age Home,בית אבות
 human_services:housing:residential_housing:long_term_housing:satellite_apartment,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Satellite Apartment,קהילה תומכת
-human_services:housing:residential_housing:long_term_housing:group_flat,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Group Flat,דירה קבוצתית
 human_services:housing:short_term_housing,Human Services,מענים חברתיים,Housing,דיור,Short-Term Housing,דיור לטווח קצר
 human_services:housing:short_term_housing:transit_flats,Human Services,מענים חברתיים,Housing,דיור,Short-Term Housing,דיור לטווח קצר,Transit Flats,דירות מעבר
-human_services:housing:short_term_housing:shelters_from_violence,Human Services,מענים חברתיים,Housing,דיור,Short-Term Housing,דיור לטווח קצר,Shelters from Violence,מקלטים מאלימות
+human_services:housing:short_term_housing:shelters_from_violence,Human Services,מענים חברתיים,Housing,דיור,Short-Term Housing,דיור לטווח קצר,Shelters from Violence,מקלטים להגנה מאלימות
 human_services:legal,Human Services,מענים חברתיים,Legal,משפטי
 human_services:legal:advocacy_legal_aid,Human Services,מענים חברתיים,Legal,משפטי,Advocacy & Legal Aid,סיוע משפטי
 human_services:legal:advocacy_legal_aid:citizenship_immigration,Human Services,מענים חברתיים,Legal,משפטי,Advocacy & Legal Aid,סיוע משפטי,Citizenship & Immigration,תושבות ומעמד
@@ -152,29 +151,20 @@ human_services:legal:advocacy_legal_aid:understand_government_programs,Human Ser
 human_services:legal:advocacy_legal_aid:workplace_rights,Human Services,מענים חברתיים,Legal,משפטי,Advocacy & Legal Aid,סיוע משפטי,Workplace Rights,זכויות עובדים
 human_services:legal:advocacy_legal_aid:financial_difficulties,Human Services,מענים חברתיים,Legal,משפטי,Advocacy & Legal Aid,סיוע משפטי,Financial difficulties,הוצאה לפועל וחדלות פרעון
 human_services:legal:mediation,Human Services,מענים חברתיים,Legal,משפטי,Mediation,גישור
-human_services:legal:notary,Human Services,מענים חברתיים,Legal,משפטי,Notary,נוטריון
-human_services:legal:representation,Human Services,מענים חברתיים,Legal,משפטי,Representation,ייצוג משפטי
 human_services:legal:legal_translation_interpretation,Human Services,מענים חברתיים,Legal,משפטי,Legal Translation & Interpretation,תרגום בהליכים משפטיים
 human_services:transport,Human Services,מענים חברתיים,Transport,תחבורה
 human_services:transport:shuttle_serivce,Human Services,מענים חברתיים,Transport,תחבורה,Shuttle serivce,הסעות
 human_services:money,Human Services,מענים חברתיים,Money,סיוע כלכלי
 human_services:money:financial_assistance,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי
-human_services:money:financial_assistance:gamach_money,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Gamach Money,"גמ""ח כספי"
-human_services:money:financial_assistance:help_pay_for_childcare,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for Childcare,מימון מסגרות חינוכיות
+human_services:money:financial_assistance:gamach_money,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Gamach Money,"גמ""ח"
+human_services:money:financial_assistance:help_pay_for_childcare,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for Childcare,מלגות
 human_services:money:financial_assistance:help_pay_for_food,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for Food,תווי מזון
-human_services:money:financial_assistance:help_pay_for_healthcare,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for Healthcare,גיוס כספי לשירותי בריאות
+human_services:money:financial_assistance:help_pay_for_healthcare,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for Healthcare,סיוע במימון שירותי בריאות
 human_services:money:financial_assistance:help_pay_for_school,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for School,סיוע בעלויות חינוך
-human_services:money:financial_assistance:help_pay_for_school:books,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for School,סיוע בעלויות חינוך,Books,ספרים
-human_services:money:financial_assistance:help_pay_for_school:clothes_for_school,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for School,סיוע בעלויות חינוך,Clothes for School,תלבושת אחידה
-human_services:money:financial_assistance:help_pay_for_school:transportation_for_school,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for School,סיוע בעלויות חינוך,Transportation for School,הסעות לבית הספר
-human_services:money:financial_assistance:help_pay_for_school:supplies_for_school,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for School,סיוע בעלויות חינוך,Supplies for School,ציוד לבית הספר
 human_services:money:financial_education,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Education,חינוך פיננסי
-human_services:money:insurance,Human Services,מענים חברתיים,Money,סיוע כלכלי,Insurance,ביטוח
 human_services:money:loans,Human Services,מענים חברתיים,Money,סיוע כלכלי,Loans,הלוואות
 human_services:money:loans:business_loan,Human Services,מענים חברתיים,Money,סיוע כלכלי,Loans,הלוואות,Business Loan,הלוואות לעסקים
 human_services:money:loans:personal_loan,Human Services,מענים חברתיים,Money,סיוע כלכלי,Loans,הלוואות,Personal Loan,הלוואות אישיות
-human_services:money:tax_preparation,Human Services,מענים חברתיים,Money,סיוע כלכלי,Tax Preparation,סיוע בהגשת מיסים
-human_services:money:consumer_rights_protection,Human Services,מענים חברתיים,Money,סיוע כלכלי,Consumer Rights Protection,הגנת זכויות הצרכן
 human_services:work,Human Services,מענים חברתיים,Work,עבודה
 human_services:work:help_find_work,Human Services,מענים חברתיים,Work,עבודה,Help Find Work,סיוע במציאת עבודה
 human_services:work:skills_training,Human Services,מענים חברתיים,Work,עבודה,Skills & Training,הכשרה מקצועית
