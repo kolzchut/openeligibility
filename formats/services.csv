@@ -161,7 +161,6 @@ human_services:money:financial_assistance:help_pay_for_childcare,Human Services,
 human_services:money:financial_assistance:help_pay_for_food,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for Food,תווי מזון
 human_services:money:financial_assistance:help_pay_for_healthcare,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for Healthcare,סיוע במימון שירותי בריאות
 human_services:money:financial_assistance:help_pay_for_school,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for School,סיוע בעלויות חינוך
-human_services:money:financial_education,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Education,חינוך פיננסי
 human_services:money:loans,Human Services,מענים חברתיים,Money,סיוע כלכלי,Loans,הלוואות
 human_services:money:loans:business_loan,Human Services,מענים חברתיים,Money,סיוע כלכלי,Loans,הלוואות,Business Loan,הלוואות לעסקים
 human_services:money:loans:personal_loan,Human Services,מענים חברתיים,Money,סיוע כלכלי,Loans,הלוואות,Personal Loan,הלוואות אישיות
@@ -169,31 +168,23 @@ human_services:work,Human Services,מענים חברתיים,Work,עבודה
 human_services:work:help_find_work,Human Services,מענים חברתיים,Work,עבודה,Help Find Work,סיוע במציאת עבודה
 human_services:work:skills_training,Human Services,מענים חברתיים,Work,עבודה,Skills & Training,הכשרה מקצועית
 human_services:work:skills_training:interview_training,Human Services,מענים חברתיים,Work,עבודה,Skills & Training,הכשרה מקצועית,Interview Training,הכנה לראיונות עבודה
-human_services:work:skills_training:resume_development,Human Services,מענים חברתיים,Work,עבודה,Skills & Training,הכשרה מקצועית,Resume Development,כתיבת קורות חיים
 human_services:work:skills_training:vocational_courses,Human Services,מענים חברתיים,Work,עבודה,Skills & Training,הכשרה מקצועית,Vocational Courses,קורסים מקצועיים
 human_services:work:special_employment,Human Services,מענים חברתיים,Work,עבודה,Special Employment,תעסוקה מיוחדת
 human_services:work:special_employment:supported_employment,Human Services,מענים חברתיים,Work,עבודה,Special Employment,תעסוקה מיוחדת,Supported Employment,תעסוקה נתמכת
 human_services:work:special_employment:protected_employment,Human Services,מענים חברתיים,Work,עבודה,Special Employment,תעסוקה מיוחדת,Protected Employment,תעסוקה מוגנת
-human_services:work:special_employment:protected_factory,Human Services,מענים חברתיים,Work,עבודה,Special Employment,תעסוקה מיוחדת,Protected Factory,מפעל מוגן
 human_services:work:special_employment:employment_club,Human Services,מענים חברתיים,Work,עבודה,Special Employment,תעסוקה מיוחדת,Employment Club,מועדון תעסוקתי
 human_services:work:business_mentorship,Human Services,מענים חברתיים,Work,עבודה,Business mentorship,ייעוץ וליווי עסקי
 human_services:culture_and_sports,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט
 human_services:culture_and_sports:fine_art,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Fine Art,אומנות
 human_services:culture_and_sports:cinema,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Cinema,קולנוע
-human_services:culture_and_sports:commemoration,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Commemoration,הנצחה
+human_services:culture_and_sports:commemoration,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Commemoration,הנצחה ותיעוד
 human_services:culture_and_sports:exhibitions,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Exhibitions,תערוכות ומוזיאונים
-human_services:culture_and_sports:choirs,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Choirs,מקהלות
 human_services:culture_and_sports:dance,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Dance,מחול
-human_services:culture_and_sports:digital_art,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Digital Art,אומנות דיגיטלית
-human_services:culture_and_sports:documentation,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Documentation,תיעוד
-human_services:culture_and_sports:exercise_fitness,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Exercise & Fitness,התעמלות וכושר
-human_services:culture_and_sports:hasbara,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Hasbara,הסברה
+human_services:culture_and_sports:hasbara,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Hasbara,העלאת מודעות
 human_services:culture_and_sports:jewish_culture,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Jewish Culture,תרבות יהודית
 human_services:culture_and_sports:ethnic_culture,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Ethnic Culture,תרבות אתנית ועדתית
 human_services:culture_and_sports:literature,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Literature,ספרות
 human_services:culture_and_sports:music,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Music,מוזיקה
-human_services:culture_and_sports:opera,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Opera,אופרה
-human_services:culture_and_sports:orchestra,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Orchestra,תזמורת
 human_services:culture_and_sports:sports,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Sports,ספורט
 human_services:culture_and_sports:theatre,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Theatre,תיאטרון
 human_services:culture_and_sports:tv,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,TV,טלוויזיה

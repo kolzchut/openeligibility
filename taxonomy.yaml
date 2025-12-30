@@ -356,8 +356,6 @@
         slug: human_services:money:financial_assistance:help_pay_for_healthcare
       - name: Help Pay for School
         slug: human_services:money:financial_assistance:help_pay_for_school
-    - name: Financial Education
-      slug: human_services:money:financial_education
     - name: Loans
       slug: human_services:money:loans
       items:
@@ -375,8 +373,6 @@
       items:
       - name: Interview Training
         slug: human_services:work:skills_training:interview_training
-      - name: Resume Development
-        slug: human_services:work:skills_training:resume_development
       - name: Vocational Courses
         slug: human_services:work:skills_training:vocational_courses
     - name: Special Employment
@@ -386,8 +382,6 @@
         slug: human_services:work:special_employment:supported_employment
       - name: Protected Employment
         slug: human_services:work:special_employment:protected_employment
-      - name: Protected Factory
-        slug: human_services:work:special_employment:protected_factory
       - name: Employment Club
         slug: human_services:work:special_employment:employment_club
     - name: Business mentorship
@@ -403,16 +397,8 @@
       slug: human_services:culture_and_sports:commemoration
     - name: Exhibitions
       slug: human_services:culture_and_sports:exhibitions
-    - name: Choirs
-      slug: human_services:culture_and_sports:choirs
     - name: Dance
       slug: human_services:culture_and_sports:dance
-    - name: Digital Art
-      slug: human_services:culture_and_sports:digital_art
-    - name: Documentation
-      slug: human_services:culture_and_sports:documentation
-    - name: Exercise & Fitness
-      slug: human_services:culture_and_sports:exercise_fitness
     - name: Hasbara
       slug: human_services:culture_and_sports:hasbara
     - name: Jewish Culture
@@ -423,10 +409,6 @@
       slug: human_services:culture_and_sports:literature
     - name: Music
       slug: human_services:culture_and_sports:music
-    - name: Opera
-      slug: human_services:culture_and_sports:opera
-    - name: Orchestra
-      slug: human_services:culture_and_sports:orchestra
     - name: Sports
       slug: human_services:culture_and_sports:sports
     - name: Theatre
