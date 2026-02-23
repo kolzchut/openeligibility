@@ -53,7 +53,7 @@ human_situations:criminal_history:violent_tendencies,Human Situations,מצבים
 human_situations:deprivation,Human Situations,מצבים,Deprivation,רקע אישי
 human_situations:deprivation:at_risk,Human Situations,מצבים,Deprivation,רקע אישי,At risk,בסיכון
 human_situations:deprivation:at_risk:at_risk_children,Human Situations,מצבים,Deprivation,רקע אישי,At risk,בסיכון,At Risk Children,ילדים בסיכון
-human_situations:deprivation:at_risk:at_risk_teens,Human Situations,מצבים,Deprivation,רקע אישי,At risk,בסיכון,At Risk Teens,נערים בסיכון
+human_situations:deprivation:at_risk:at_risk_teens,Human Situations,מצבים,Deprivation,רקע אישי,At risk,בסיכון,At Risk Teens,נוער בסיכון
 human_situations:deprivation:at_risk:at_risk_youth,Human Situations,מצבים,Deprivation,רקע אישי,At risk,בסיכון,At Risk Youth,צעירים בסיכון
 human_situations:deprivation:geographical_periphery,Human Situations,מצבים,Deprivation,רקע אישי,Geographical Periphery,אנשים מפריפריה גיאוגרפית
 human_situations:deprivation:social_periphary,Human Situations,מצבים,Deprivation,רקע אישי,Social Periphary,אנשים מפריפריה חברתית
